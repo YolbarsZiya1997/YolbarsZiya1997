@@ -1,13 +1,5 @@
 ### Hi there 👋, my name is Ziya
 #### Programming and Fun
-
-I'am Ziya from Ürümchİ. I am a physics undergrad interested in physics, programming, and building beautiful websites. You can check out my Twitter at @AlimZiya
-
-Skills: Data-analysis / C++ / Python
-
-- 🔭 I’m currently working on this page. 
-
-### Hi there 👋, my name is Ziya
 I'am Ziya from Ürümchİ. I am a physics undergrad interested in physics, programming and building beautiful websites.
 
 Skills: Data-Analysis / 🐍Python / 𝛻Physics
